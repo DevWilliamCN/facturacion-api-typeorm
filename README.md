@@ -89,7 +89,7 @@ DELETE /productos/:id
 ## 👨‍💻 Autor
 
 **William Cubero Navarro**  
-Desarrollador Backend & Fullstack | [GitHub @DevWilliamCN](https://github.com/DevWilliamCN)
+Desarrollador de Software [GitHub @DevWilliamCN](https://github.com/DevWilliamCN)
 
 ---
 
